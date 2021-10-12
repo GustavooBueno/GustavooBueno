@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Bueno 👋
 
-- 🌱 Apaixonado em Python
+- 🌱 Apaixonado em Python e R
 - 📫 Cursando Sistemas de Informação na UNIFEI-Itajubá
 - 🔭 Em busca de emprego
 
