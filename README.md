@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Gustavo Bueno 👋
 
-- 🌱 Apaixonado em Python e R
+- 🌱 Apaixonado em tecnologia
 - 📫 Cursando Sistemas de Informação na UNIFEI-Itajubá
-- 🔭 Em busca de emprego
+- 🔭 Estagiário da FIPE
+- 👾 Entusiasta em Segurança da Informação
 
  <div>
   <a href="https://github.com/GustavooBueno">
@@ -10,7 +11,6 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Teste" height="180" width="380" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 </div>
  
