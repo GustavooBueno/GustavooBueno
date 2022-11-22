@@ -2,7 +2,6 @@
 
 - 🌱 Apaixonado em tecnologia
 - 📫 Cursando Sistemas de Informação na UNIFEI-Itajubá
-- 🔭 Estagiário da FIPE
 - 👾 Entusiasta em Segurança da Informação
 
  <div>
