@@ -2,7 +2,6 @@
 
 - 🌱 Apaixonado em tecnologia
 - 📫 Cursando Sistemas de Informação na UNIFEI-Itajubá
-- 👾 Entusiasta em Segurança da Informação
 
  <div>
   <a href="https://github.com/GustavooBueno">
